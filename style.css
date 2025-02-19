@@ -12,7 +12,7 @@ li {
   padding: 10px;
 }
 .container {
-  width: 60%;
+  width: 80%;
   margin: 20px auto;
   background: white;
   padding-top: 40px;
@@ -34,13 +34,13 @@ header {
 header h1 {
   color: #007bff;
   margin: 0;
-  font-size: 48px;
+  font-size: 42px;
 }
 .header-about {
   max-width: 500px;
   text-align: center;
   margin: 0 auto;
-  margin-top: 80px;
+  margin-top: 10px;
 }
 .profile-photo {
   max-width: 200px;
